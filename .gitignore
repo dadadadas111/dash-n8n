@@ -1,0 +1,29 @@
+# Secrets
+.env
+
+# Local volume data
+volumes/
+
+# Database backups
+backups/
+
+# Logs
+*.log
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files
+*.tmp
+temp/
+tmp/
+id_ed25519.pub
+id_ed25519
